@@ -2,8 +2,7 @@
 Scoreboard for PocketMine-MP 4.0.0
 
 # Explanation in English:
-This api was created for the future release of PocketMine-MP with (api-4.0.0) so there may be changes to the api code that can be used in PocketMine-MP 3.15.4 and the previous or later wing 3.15.4
+This api was created for the next version of PocketMine-MP (api-4.0.0), it can also be used by changing (use/pocketmine/player/Player by use/pocketmine/Player) with that can be used in this version 3.15.4 or 3.x.x of PocketMine-MP
 
 # Explicacion en Español:
-Esta api fue creada para la versión futura de PocketMine-MP con (api-4.0.0) por lo cual puede haber cambios en el código api que se pueden utilizar en PocketMine-MP 3.15.4 y el ala anterior o posterior 3.15.4
-Esta api fue creada para la versión futura de PocketMine-MP con (api-4.0.0) por lo cual puede haber cambios en el código api que se pueden utilizar en PocketMine-MP 3.15.4 y el ala anterior o posterior 3.15.4
+Esta api fue creada para la siguiente version de PocketMine-MP (api-4.0.0), tambien puede ser  utilizada cambiando (use/pocketmine/player/Player  por use/pocketmine/Player) con eso puede ser utilizada en esta version 3.15.4 o 3.x.x de  PocketMine-MP 
